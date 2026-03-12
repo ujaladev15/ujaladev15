@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ujaladev15"><img src="https://komarev.com/ghpvc/?username=ujaladev15&style=for-the-badge&color=58A6FF"></a>
-  <a href="https://github.com/ujaladev15?tab=followers"><img src="https://img.shields.io/github/followers/ujaladev15?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&label=Followers"/></a>
+  <!-- <a href="https://github.com/ujaladev15?tab=followers"><img src="https://img.shields.io/github/followers/ujaladev15?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&label=Followers"/></a> -->
 </p>
 
 ---
