@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%26+Node.js+Enthusiast;API+Architect;Building+Things+That+Scale&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&pause=1000&size=25" />
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://github.com/ujaladev15">Ujala Yadav</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://github.com/ujaladev15">Ujala Yadav</a> 👋 </h3>
 <h5 align="center">Here are some links and stats you might find interesting:</h5>
 
 <p align="center">
