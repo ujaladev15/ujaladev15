@@ -1,6 +1,6 @@
 ## Introduction
 
-<p align="center">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%26+Node.js+Enthusiast;API+Architect;Building+Things+That+Scale&font=Fira%20Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&pause=1000&size=25" />
 </p>
 
