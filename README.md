@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujala-yadav/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/ujalayadav1006">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black"/>
   </a>
   <a href="mailto:yadavujala1517@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 ## Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujaladev15&style=for-the-badge&color=58A6FF"/>
+  <img src="https://komarev.com/ghpvc/?username=ujaladev15&style=for-the-badge"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img height="200px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ujaladev15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ujaladev15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 ## Top Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ujaladev15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujaladev15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ujaladev15&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    src="https://github-readme-streak-stats.herokuapp.com?user=ujaladev15&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
