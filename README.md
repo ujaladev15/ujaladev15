@@ -35,7 +35,6 @@
 - 🌱 Learning **System Design**, **Microservices**, and **Distributed Systems**
 - ⚡ Writing clean, scalable, and maintainable code
 - 🏆 Top 30 Projects Nationwide — Arohan Innovation Award 2023
-
 ---
 
 ## Languages and Tools
